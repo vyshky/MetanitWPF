@@ -31,5 +31,10 @@
                   HorizontalAlignment="Left" 
                   VerticalAlignment="Center" 
                   Width="150"/>
+
+        <ListBox ItemsSource="{StaticResource days}" 
+         HorizontalAlignment="Right" 
+         VerticalAlignment="Center" 
+         Width="150" Height="200"/>
     </Grid>
 </Window>

@@ -9,11 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Button_2", "Button_2\Button
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Button_2.2", "Button_2.2\Button_2.2.csproj", "{9855076C-A7C9-4F64-BB1D-61AB6DE42B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button_2.2.1", "Button_2.2.1\Button_2.2.1.csproj", "{5F27ED60-9DB2-4E9B-A409-943106D70324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Button_2.2.1", "Button_2.2.1\Button_2.2.1.csproj", "{5F27ED60-9DB2-4E9B-A409-943106D70324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button_2.3", "Button_2.3\Button_2.3.csproj", "{92EF7B57-0AA9-4879-88BB-C1281FDA2169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Button_2.3", "Button_2.3\Button_2.3.csproj", "{92EF7B57-0AA9-4879-88BB-C1281FDA2169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class_in_xmal_2.4", "class_in_xmal_2.4\class_in_xmal_2.4.csproj", "{8E6DE8CC-8BE0-43F7-B844-12A3C9A42419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class_in_xmal_2.4", "class_in_xmal_2.4\class_in_xmal_2.4.csproj", "{8E6DE8CC-8BE0-43F7-B844-12A3C9A42419}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid_3", "Grid_3\Grid_3.csproj", "{BDAEAE82-93FD-419E-9A72-7511CB301683}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridSpliter_3.2", "GridSpliter_3.2\GridSpliter_3.2.csproj", "{CF22F4BD-660D-48B2-9891-F126BE189E5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridSplite_3.2_2", "GridSplite_3.2_2\GridSplite_3.2_2.csproj", "{348BA089-94DB-45D0-8AAE-A44B927C7C26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackPanel_3.3", "StackPanel_3.3\StackPanel_3.3.csproj", "{62C0E6DB-8ED3-4DA4-9DA6-BE29E66A6DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanel_3.4", "DockPanel_3.4\DockPanel_3.4.csproj", "{0D73F21A-6D62-457B-AB6F-0FD8FFE4C04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapPanel_3.5", "WrapPanel_3.5\WrapPanel_3.5.csproj", "{71519EED-426F-4200-AEE0-8D7384C6BA4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +57,30 @@ Global
 		{8E6DE8CC-8BE0-43F7-B844-12A3C9A42419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E6DE8CC-8BE0-43F7-B844-12A3C9A42419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E6DE8CC-8BE0-43F7-B844-12A3C9A42419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDAEAE82-93FD-419E-9A72-7511CB301683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAEAE82-93FD-419E-9A72-7511CB301683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAEAE82-93FD-419E-9A72-7511CB301683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAEAE82-93FD-419E-9A72-7511CB301683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF22F4BD-660D-48B2-9891-F126BE189E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF22F4BD-660D-48B2-9891-F126BE189E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF22F4BD-660D-48B2-9891-F126BE189E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF22F4BD-660D-48B2-9891-F126BE189E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348BA089-94DB-45D0-8AAE-A44B927C7C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348BA089-94DB-45D0-8AAE-A44B927C7C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348BA089-94DB-45D0-8AAE-A44B927C7C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348BA089-94DB-45D0-8AAE-A44B927C7C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C0E6DB-8ED3-4DA4-9DA6-BE29E66A6DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C0E6DB-8ED3-4DA4-9DA6-BE29E66A6DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C0E6DB-8ED3-4DA4-9DA6-BE29E66A6DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C0E6DB-8ED3-4DA4-9DA6-BE29E66A6DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D73F21A-6D62-457B-AB6F-0FD8FFE4C04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D73F21A-6D62-457B-AB6F-0FD8FFE4C04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D73F21A-6D62-457B-AB6F-0FD8FFE4C04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D73F21A-6D62-457B-AB6F-0FD8FFE4C04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71519EED-426F-4200-AEE0-8D7384C6BA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71519EED-426F-4200-AEE0-8D7384C6BA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71519EED-426F-4200-AEE0-8D7384C6BA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71519EED-426F-4200-AEE0-8D7384C6BA4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
