@@ -1,0 +1,17 @@
+﻿<Window x:Class="Canvas_3._6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Canvas_3._6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas Background="Lavender">
+            <Button Background="AliceBlue" Content="Top 20 Left 40" Canvas.Top="20" Canvas.Left="40"/>
+            <Button Background="LightSkyBlue" Content="Top 20 Right 20" Canvas.Top="20" Canvas.Right="20"/>
+            <Button Background="Aquamarine" Content="Top 30 Right 20" Canvas.Bottom="30" Canvas.Left="20"/>
+            <Button Background="LightCyan" Content="Top 20 Right 40" Canvas.Bottom="20" Canvas.Right="40"/>
+        </Canvas>
+    </Grid>
+</Window>

@@ -11,7 +11,7 @@
         <Button DockPanel.Dock="Top" Background="AliceBlue" Content="Верхняя кнопка 2"></Button>
         <Button DockPanel.Dock="Bottom" Background="BlanchedAlmond"  Content="Нижняя кнопка"></Button>
         <Button DockPanel.Dock="left" Background="Aquamarine" Content="Левая кнопка"></Button>
-        <Button DockPanel.Dock="left" Background="Aquamarine" Content="Левая кнопка"></Button>
+        <Button DockPanel.Dock="left" Background="Aquamarine" Content="Левая кнопка 2"></Button>
         <Button DockPanel.Dock="Right" Background="DarkGreen" Content="Правая кнопка"></Button>
         <Button DockPanel.Dock="Bottom" Background="LightGreen"  Content="Центр"></Button>
     </DockPanel>
